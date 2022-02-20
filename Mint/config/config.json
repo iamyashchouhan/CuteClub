@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x736Be1e944a50A442A0a9E597a6b225312f6B815",
+  "SCAN_LINK": "https://polygonscan.com/address/0x736Be1e944a50A442A0a9E597a6b225312f6B815",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Cute Cats Club NFT",
+  "SYMBOL": "CCC",
+  "MAX_SUPPLY": 555,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/dudes-club-nft-official",
+  "SHOW_BACKGROUND": true
+}
